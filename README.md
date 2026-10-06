@@ -20,7 +20,6 @@
 
 ### 🛠️ Tech stack
 
-<!-- TODO: keep only what you actually use; full icon list at https://skillicons.dev -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,git,github,vscode,c,java,mysql&theme=dark" alt="Tech stack" />
 </p>
@@ -30,7 +29,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | [open-webui-edl](https://github.com/stavarakisP/open-webui-edl) | External document loader for Open WebUI: parses and prepares documents for RAG | Python |
-<!-- TODO: add 2–5 more projects (university projects, thesis, side projects) -->
 
 ### 📊 GitHub stats
 
